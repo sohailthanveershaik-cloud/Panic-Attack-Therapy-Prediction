@@ -85,6 +85,7 @@ The comparative analysis demonstrates that XGBoost significantly outperformed th
 
 ## Project Structure
 
+```text
 Panic-Attack-Therapy-Prediction/
 │
 ├── Dataset/
@@ -98,6 +99,7 @@ Panic-Attack-Therapy-Prediction/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ## How to Run
 
