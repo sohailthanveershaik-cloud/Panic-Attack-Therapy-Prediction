@@ -103,19 +103,27 @@ Panic-Attack-Therapy-Prediction/
 
 ### 1. Clone the repository
 
+```bash
 git clone https://github.com/sohailthanveershaik-cloud/Panic-Attack-Therapy-Prediction.git
+```
 
 ### 2. Navigate to the project
 
+```bash
 cd Panic-Attack-Therapy-Prediction
+```
 
 ### 3. Install dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 4. Run the project
 
+```bash
 python panic_attack_therapy_prediction.py
+```
 
 ## Future Enhancements
 
