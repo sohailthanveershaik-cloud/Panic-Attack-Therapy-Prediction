@@ -69,19 +69,19 @@ The models were evaluated using:
 
 The project includes analysis of therapy distribution, gender distribution, age distribution, panic attack frequency, stress levels, and feature correlations.
 
-![EDA Plots](Results/EDA_Plots.jpg)
+![EDA Plots](Results/EDA_Plots.png)
 
 ## Confusion Matrices
 
 Confusion matrices were generated to evaluate the classification performance of both SVM and XGBoost models.
 
-![Confusion Matrices](Results/Confusion_Matrices.jpg)
+![Confusion Matrices](Results/Confusion_Matrices.png)
 
 ## Model Comparison
 
 The comparative analysis demonstrates that XGBoost significantly outperformed the SVM classifier on the evaluated dataset.
 
-![Model Comparison](Results/Model_Comparison.jpg)
+![Model Comparison](Results/Model_Comparison.png)
 
 ## Project Structure
 
