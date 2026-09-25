@@ -1,7 +1,3 @@
-"""Panic Attack Therapy Prediction Using Machine Learning.
-Reconstructed from the original academic project report.
-The original dataset and source repository were lost.
-"""
 import os
 import joblib
 import numpy as np
